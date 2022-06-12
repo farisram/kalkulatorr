@@ -1,9 +1,9 @@
-/* style */
 .calculator{
     text-align: center;
     margin: 0 auto;
     padding-top: 200px;
     width: 400px;
+    font-weight: bolder;
 }
 
 .calculator-screen{
@@ -28,7 +28,7 @@
 
 button{
     height: 80px;
-    background-color: gray;
+    background-color: #28464B;
     border: 1px solid black;
     font-size: 32px;
     color: #fff;
@@ -41,13 +41,13 @@ button{
 }
 
 .operator, .equal-sign{
-    background-color: orange;
+    background-color: #931621;
 }
 
 button:hover{
-    background-color: darkgray;
+    background-color: #101C1E;
 }
 
 .operator:hover, .equal-sign:hover{
-    background-color: darkorange;
+    background-color: #39090D;
 }
