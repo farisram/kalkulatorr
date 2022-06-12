@@ -1,3 +1,4 @@
+//script
 let prevNumber='';
 let calculationOperator='';
 let currentNumber='0';
